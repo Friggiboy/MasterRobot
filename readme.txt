@@ -1,0 +1,1 @@
+Both the files FinalRL.m and LoacationOfBoltAndWaypointGen.m  Is to be runed befor running simulink program. 
