@@ -1,1 +1,1 @@
-Both the files FinalRL.m and LoacationOfBoltAndWaypointGen.m  Is to be runed befor running simulinkFinal program.  The solver much be set to auto.  If there is no agent.mat file present.  The agent need to be trained using the 
+Both the files FinalRL.m and LoacationOfBoltAndWaypointGen.m  Is to be runed befor running simulinkFinal program.  The solver much be set to auto.  If there is no agent.mat file present.  The agent need to be trained using the robotsimtrain.slx.  together with both the 
